@@ -2,9 +2,9 @@
               COURIER MANAGEMENT SYSTEM
 ============================================================
 
-Project Code     : [YOUR PROJECT CODE]
-Enrollment No.   : [YOUR ENROLLMENT NUMBER]
-Student Name     : [YOUR FULL NAME]
+Project Code     : CPP48
+Enrollment No.   : IU2541230497
+Student Name     : KUSHWAHA SANJAYSINGH
 Project Name     : Courier Management System
 Language         : C++
 Development Tool : Visual Studio Code
